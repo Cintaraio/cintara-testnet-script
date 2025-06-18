@@ -200,10 +200,6 @@ We welcome contributions to improve this setup script! Please:
 2. Create a feature branch
 3. Submit a pull request with your improvements
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 This is testnet software. Use at your own risk. Always backup your keys and configuration files. Never use real funds or mainnet keys with testnet software.
